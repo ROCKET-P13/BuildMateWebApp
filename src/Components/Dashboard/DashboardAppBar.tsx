@@ -19,7 +19,7 @@ export const DashboardAppBar = () => {
 				</button>
 
 				<AppBarTitle>
-					BuildMate
+					CoBuild
 				</AppBarTitle>
 			</AppBarLeft>
 
